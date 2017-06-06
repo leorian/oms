@@ -1,4 +1,4 @@
-package com.oms;
+package com.leo.oms;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

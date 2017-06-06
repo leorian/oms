@@ -1,4 +1,4 @@
-package com.oms.mapper;
+package com.leo.oms.mapper;
 
 import java.util.List;
 
@@ -9,8 +9,8 @@ import org.apache.ibatis.annotations.Results;
 import org.apache.ibatis.annotations.Select;
 import org.apache.ibatis.annotations.Update;
 
-import com.oms.entity.UserEntity;
-import com.oms.enums.UserSexEnum;
+import com.leo.oms.entity.UserEntity;
+import com.leo.oms.enums.UserSexEnum;
 
 public interface UserMapper {
 	

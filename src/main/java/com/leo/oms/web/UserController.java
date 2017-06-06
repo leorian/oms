@@ -1,4 +1,4 @@
-package com.oms.web;
+package com.leo.oms.web;
 
 import java.util.List;
 
@@ -7,8 +7,8 @@ import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.oms.entity.UserEntity;
-import com.oms.mapper.UserMapper;
+import com.leo.oms.entity.UserEntity;
+import com.leo.oms.mapper.UserMapper;
 
 @RestController
 public class UserController {

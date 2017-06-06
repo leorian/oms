@@ -1,4 +1,4 @@
-package com.oms.mapper;
+package com.leo.oms.mapper;
 
 import java.util.List;
 
@@ -9,8 +9,8 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.context.SpringBootTest;
 import org.springframework.test.context.junit4.SpringRunner;
 
-import com.oms.entity.UserEntity;
-import com.oms.enums.UserSexEnum;
+import com.leo.oms.entity.UserEntity;
+import com.leo.oms.enums.UserSexEnum;
 
 @RunWith(SpringRunner.class)
 @SpringBootTest
